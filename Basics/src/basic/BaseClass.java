@@ -8,7 +8,9 @@ public class BaseClass {
 		
 		System.out.println(config);
 		BrowserInvoke.startapplication(config.getBrowser(), config.getStagingUrl());
-		System.out.println("End Step");		
+		System.out.println("End Step");	
+		System.out.println("Script successfully started");
+		System.out.println("Script successfully ended");
 	}
 	
 
