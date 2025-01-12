@@ -11,6 +11,7 @@ public class BaseClass {
 		System.out.println("End Step");	
 		System.out.println("Script successfully started");
 		System.out.println("Script successfully ended");
+		System.out.println("Browser Closed");
 	}
 	
 
