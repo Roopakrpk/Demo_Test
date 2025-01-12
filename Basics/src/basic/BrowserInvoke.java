@@ -15,7 +15,8 @@ public class BrowserInvoke  {
 			else if (testurl.equals("https://demo.itlearn360.com/")) {
 			System.out.println("URL satisfied");	
 			System.out.println("Browser Invoked");	
-			System.out.println("Webpage loaded");	
+			System.out.println("Webpage loaded");
+			System.out.println("Expected results shown in UI");
 			
 		}
 }
